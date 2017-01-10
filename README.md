@@ -105,3 +105,10 @@ removed = myFish.splice(3, Number.MAX_VALUE);
 //运算后的myFish: ["parrot", "anemone", "blue"]
 //被删除元素的数组：["trumpet", "surgeon"]
 ```       
+***
+给 JQuery 绑定事件：
+在`script`标签中添加
+`$("#getMessage").on("click", function(){});`
+
+
+JSON 是 JavaScript Object Notation 的简写
